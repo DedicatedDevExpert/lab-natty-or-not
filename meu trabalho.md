@@ -3,6 +3,8 @@
 ## 📒 Descrição
 Criei um projeto voltado para a **população carente**, com o objetivo de facilitar o acesso à **edição de currículos profissionais**. Utilizando **IA generativa**, desenvolvi um sistema que **personaliza o currículo conforme as exigências do mercado atual**, aumentando as chances de empregabilidade. Além disso, realizei uma **análise de finanças e contabilidade** para garantir que o projeto seja sustentável e escalável.
 
+🔗 **Repositório do Projeto**: [github.com/DedicatedDevExpert/projeto-curiculo](https://github.com/DedicatedDevExpert/projeto-curiculo.git)
+
 ## 🤖 Tecnologias Utilizadas
 - 🧠 **ChatGPT** – Geração de textos e personalização de currículos
 - 🎨 **Canva + Beautiful.ai** – Design visual dos currículos
